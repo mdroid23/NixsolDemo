@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NixsolDemo</string>
+    <string name="str_msg_loading_facts">Loading facts...</string>
+    <string name="no_internet_connection">No Internet connection. Make sure Wifi or cellular data is turned on, then try again.</string>
+    <string name="server_time_out">Connection Time out. Please try again.</string>
+    <string name="unable_to_connect">Unable to connect with server. Please try again.</string>
+    <string name="server_auth_failed">Authentication failed with server. Please try again.</string>
+</resources>
